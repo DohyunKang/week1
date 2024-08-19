@@ -23,3 +23,7 @@ NI card와 measurement&WPF를 활용하여 DO/DI 제어 및 AI Graph 구현
 1. 저장소를 클론합니다:
    ```bash
    git clone https://github.com/DohyunKang/week1.git
+
+## 참고 문서
+
+- [1주차_강도현.pptx](https://github.com/user-attachments/files/16656515/1._.pptx)
