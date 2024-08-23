@@ -26,4 +26,4 @@ NI card와 measurement&WPF를 활용하여 DO/DI 제어 및 AI Graph 구현
 
 ## 참고 문서
 
-- [1주차_강도현.pptx](https://github.com/user-attachments/files/16656515/1._.pptx)
+- [1주차_강도현.pptx](https://github.com/user-attachments/files/16725471/1._.pptx)
